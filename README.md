@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carlos Noe Saavedra, CFA. Co-Founder of Fyde, a blockchain treasury management protocol
-- 👀 I’m interested in quantitative decentralized finance strategies
-- 🌱 I’m currently learning token engineering and solidity
-- 💞️ I’m looking to collaborate on risk management and financial engineering methods applied to crypto
+- I’m currently working on graph ML and network analysis in context of crypto
+- Doing stuff with crypto data
 - 📫 Reach me twitter @noah_saav or email carlos@fyde.fi
 
 <!---
